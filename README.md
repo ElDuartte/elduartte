@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">I'm a web developer</h3>
+<h3 align="center">I'm a Full-Stack Web Developer</h3>
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🧐 I’m currently looking for new opportunity's 🧐
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
