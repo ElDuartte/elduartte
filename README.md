@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Full-Stack Web Developer</h3>
 
 - 🧐 I’m currently looking for new opportunity's 🧐
-- 🤓🧐 Learning Node.js, Express and Mongodb 🧐🤓
+- 🤓🧐 Learning Node.js, Express, Mongodb, Big O notation and sometimes just messing with other languages 🧐🤓
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
