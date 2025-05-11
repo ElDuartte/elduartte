@@ -7,9 +7,9 @@
 
 ---
 
-🌍 **Location:** Madrid, Spain  
-💼 **Freelance Developer** | 3+ years of experience  
-📫 **Contact:** jf@duartte.co | [LinkedIn](https://linkedin.com/in/juanfelipeduartemontanez)
+🌍 **Location:** Spain  
+💼 **Developer** 3+ years of experience  
+📫 **Contact:** [LinkedIn](https://linkedin.com/in/juanfelipeduartemontanez)
 
 ---
 
@@ -41,9 +41,6 @@
 
 <a href="https://linkedin.com/in/juanfelipeduartemontanez" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40"/>
-</a>
-<a href="mailto:jf@duartte.co">
-  <img src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="Email" width="40"/>
 </a>
 
 
