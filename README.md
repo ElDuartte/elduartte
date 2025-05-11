@@ -35,6 +35,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElDuartte&layout=compact&theme=tokyonight" />
 </p>
 
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElDuartte&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=ElDuartte&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ElDuartte&theme=tokyo-night" />
+</p>
+
 ---
 
 ### 💬 Let's Connect
