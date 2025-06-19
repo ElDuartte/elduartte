@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">Full-Stack Developer | React · Ruby on Rails · Node.js · TypeScript</h3>
+<h3 align="center">Full-Stack Developer | React · Ruby on Rails · Node.js</h3>
 
 ---
 
